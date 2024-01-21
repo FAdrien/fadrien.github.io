@@ -1,2 +1,2 @@
-# fadrien.github.io
-My personal website
+# Introduction
+This is my personal website.
